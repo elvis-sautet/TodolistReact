@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## TODO APP.
+
+This is a todo app where one can add a todo, delete a todo also.
+The app has components in place like the header which has the Router integrated which is a tool that allows you to handle routes in a web app, using dynamic routing. Dynamic routing takes place as the app is rendering on your machine, unlike the old routing architecture where the routing is handled in a configuration outside of a running app
+It has also some unique identifier(UUID) which is a 128-bit number used to uniquely identify some object or entity on the Internet. When we use JSX to create or update components, React creates its own virtual DOM...
+
 ## Available Scripts
 
 In the project directory, you can run:
